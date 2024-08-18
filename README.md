@@ -10,4 +10,4 @@
 ### Langages and softwares:
 - **IDE**: `Visual Studio, CLion`
 - **Disassembler**: `IDA Pro`
-- **Langages**: `C++, C#`
+- **Langages**: `C, C++, C#, Js`
