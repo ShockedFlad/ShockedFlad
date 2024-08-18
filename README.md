@@ -4,7 +4,8 @@
 - New developer
 
 ### Projects:
-- **Flore Client**: `Release Soon (https://floreclient.ddns.net)`
+- **Flore Client**: `Release Soon`
+- **Client**: `Test`
 
 ### Langages and softwares:
 - **IDE**: `Visual Studio, CLion`
